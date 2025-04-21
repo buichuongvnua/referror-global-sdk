@@ -77,7 +77,7 @@ This document describes the key features of respond.io platform for business mes
     - Tag analytics to track usage patterns
 
 
-## Additional Features
+## Web Response.io Features
 
 ### 1. Dashboard
 - Overview statistics and metrics
