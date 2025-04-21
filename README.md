@@ -19,9 +19,9 @@
 ## Project Structure
 
 The SDK consists of three main components:
-1. [Backend SDK](#)
-2. [Web SDK](#)
-3. [Mobile SDK](#)
+1. [Backend SDK](#) *(Coming Soon)*
+2. [Web SDK](#) *(Coming Soon)*
+3. [Mobile SDK](#) *(Coming Soon)*
 
 ## Key Features
 - WhatsApp Business API integration
