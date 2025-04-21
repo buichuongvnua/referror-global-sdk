@@ -3,9 +3,8 @@
 ## Documentation Links
 
 ### Core Documentation
-- [Implementation Plan](sdk_implementation_plan.md)
-- [WhatsApp Integration Guide](whatsapp_integration.md)
 - [Respond.io Features Reference](respond_io_features.md)
+- [Implementation Plan](sdk_implementation_plan.md)
 
 ### Implementation Details
 - [SDK Architecture](#) *(Coming Soon)*
